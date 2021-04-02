@@ -7,7 +7,7 @@ In particular, for each code smell removed, the technical debt relating to the s
 <li>Java project repository to analyzer</li>
 <li><a href="https://github.com/gradle/gradle">Gradle</a> for dependences and build automation</li>
 <li><a href="https://github.com/tushartushar/DesigniteJava">DesigniteJava</a> community version for code smells detection</li>
-<li><a href="https://github.com/SonarSource/sonarqubeSonarQube">SonarQube</a> and <a href="https://github.com/SonarSource/sonar-scanner-cli">SonarScanner</a> to calculate technical debt</li>
+<li><a href="https://github.com/SonarSource/sonarqube">SonarQube</a> and <a href="https://github.com/SonarSource/sonar-scanner-cli">SonarScanner</a> to calculate technical debt</li>
 </ul>
 
 ### Getting Started
