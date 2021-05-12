@@ -13,7 +13,7 @@ In particular, for each code smell removed, the technical debt relating to the s
 ### Getting Started
 Clone the project:
 ```
-git clone https://github.com/RaffaeleFranco/Refactoring-Impact
+git clone https://github.com/raffaelefranco/refactoring-impact
 ```
 Import project into IDE (e.g. Eclipse or Intellij) and download Gradle dependences.
 
